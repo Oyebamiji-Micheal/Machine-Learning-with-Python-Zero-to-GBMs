@@ -1,8 +1,10 @@
 # Machine Learning with Python: Zero to GBMs
 
 ## About the course   
-This course is a practical and beginner-friendly introduction to supervised machine learning, decision trees, and gradient boosting using Python. In this course, I solved 2 coding assignments built a course project where I trained ML models using a large real-world dataset.
-
+This course is a practical and beginner-friendly introduction to supervised machine learning, decision trees, and gradient boosting using Python. In this course, I will solve 2 coding assignments and build a course project where I will train ML models using a large real-world dataset. 
+All about the course can be found via this link [Machine Learning with Python: Zero to GBMs](https://jovian.ai/learn/machine-learning-with-python-zero-to-gbms).
+</br>
+</br>
 ## Course Curriculum
 ### Lesson 1 - Linear Regression with Scikit Learn
 * Preparing data for machine learning
